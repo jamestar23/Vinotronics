@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VinotronicsTask1/1.0.0": {
+        "dependencies": {
+          "NLog": "4.7.5",
+          "Newegg.Marketplace.SDK": "1.0.8",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "VinotronicsTask1.dll": {}
+        }
+      },
+      "Newegg.Marketplace.SDK/1.0.8": {
+        "dependencies": {
+          "NLog": "4.7.5",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Newegg.Marketplace.SDK.Base.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          },
+          "lib/netcoreapp2.1/Newegg.Marketplace.SDK.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "NLog/4.7.5": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.5.12092"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VinotronicsTask1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newegg.Marketplace.SDK/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A9zDrGF8h9dBkYNWu5GLRb+pco7BCNxRN+rTWOV0K8Yq+l9YC8F/+RhYe/YsyTNtxjOUcLgpXZwkdi3Ly8OlpA==",
+      "path": "newegg.marketplace.sdk/1.0.8",
+      "hashPath": "newegg.marketplace.sdk.1.0.8.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "NLog/4.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Udzim+UwoAGk0vW6T2rEBXJq1COvqTuE+4NFj2zHytuX1WOu+1Yes1qABG1IJOA5V3OMilIufUU1Ha9T0rrzQ==",
+      "path": "nlog/4.7.5",
+      "hashPath": "nlog.4.7.5.nupkg.sha512"
+    }
+  }
+}

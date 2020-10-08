@@ -1,0 +1,17 @@
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\VinotronicsTask1.exe
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\VinotronicsTask1.deps.json
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\VinotronicsTask1.runtimeconfig.json
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\VinotronicsTask1.runtimeconfig.dev.json
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\VinotronicsTask1.dll
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\VinotronicsTask1.pdb
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.AssemblyInfo.cs
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.dll
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.pdb
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.genruntimeconfig.cache
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\Newegg.Marketplace.SDK.Base.dll
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\Newegg.Marketplace.SDK.dll
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\estre\source\repos\VinotronicsTask1\VinotronicsTask1\obj\Debug\netcoreapp3.1\VinotronicsTask1.csproj.CopyComplete

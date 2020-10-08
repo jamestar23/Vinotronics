@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wWVPegSI6nCY+DqNK3w+pfL3Q5PHlLw3UURER9zgvY9JI2li+jHEwHKGY4JOl2pRR3CmYJHB+xhgHNMbSCmVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\estre\\source\\repos\\VinotronicsTask1\\VinotronicsTask1\\VinotronicsTask1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\estre\\.nuget\\packages\\newegg.marketplace.sdk\\1.0.8\\newegg.marketplace.sdk.1.0.8.nupkg.sha512",
+    "C:\\Users\\estre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\estre\\.nuget\\packages\\nlog\\4.7.5\\nlog.4.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
